@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'Python Boilerplate'
-copyright = "2025, Audrey Roy Greenfeld"
-author = "Audrey Roy Greenfeld"
+copyright = "2025, Your Name"
+author = "Your Name"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout

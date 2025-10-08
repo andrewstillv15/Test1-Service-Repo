@@ -6,8 +6,8 @@ Python Boilerplate
 .. image:: https://img.shields.io/pypi/v/python_boilerplate.svg
         :target: https://pypi.python.org/pypi/python_boilerplate
 
-.. image:: https://img.shields.io/travis/audreyr/python_boilerplate.svg
-        :target: https://travis-ci.com/audreyr/python_boilerplate
+.. image:: https://img.shields.io/travis/andrewstillv15/Test1-Service-Repo.svg
+        :target: https://travis-ci.com/andrewstillv15/Test1-Service-Repo
 
 .. image:: https://readthedocs.org/projects/python-boilerplate/badge/?version=latest
         :target: https://python-boilerplate.readthedocs.io/en/latest/?version=latest

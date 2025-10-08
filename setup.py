@@ -12,21 +12,22 @@ with open('HISTORY.rst') as history_file:
 
 requirements = ['Click>=7.0', ]
 
-test_requirements = [ ]
+test_requirements = ['pytest>=3', ]
 
 setup(
-    author="Audrey Roy Greenfeld",
-    author_email='audreyr@example.com',
-    python_requires='>=3.6',
+    author="Your Name",
+    author_email='your.email@example.com',
+    python_requires='>=3.9',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: MIT License',
         'Natural Language :: English',
         'Programming Language :: Python :: 3',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
-        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+        'Programming Language :: Python :: 3.12',
     ],
     description="Python Boilerplate contains all the boilerplate you need to create a Python package.",
     entry_points={
@@ -43,7 +44,7 @@ setup(
     packages=find_packages(include=['python_boilerplate', 'python_boilerplate.*']),
     test_suite='tests',
     tests_require=test_requirements,
-    url='https://github.com/audreyr/python_boilerplate',
+    url='https://github.com/andrewstillv15/Test1-Service-Repo',
     version='0.1.0',
     zip_safe=False,
 )
