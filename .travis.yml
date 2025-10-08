@@ -21,8 +21,9 @@ deploy:
   distributions: sdist bdist_wheel
   user: audreyr
   password:
-    secure: PLEASE_REPLACE_ME
+    secure: <ENCRYPTED_TOKEN>
   on:
     tags: true
-    repo: audreyr/python_boilerplate
+    repo: andrewstillv15/Test1-Service-Repo
+    python: 3.8
     python: 3.8
