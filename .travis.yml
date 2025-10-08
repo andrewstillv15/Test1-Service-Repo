@@ -21,7 +21,7 @@ deploy:
   distributions: sdist bdist_wheel
   user: audreyr
   password:
-    secure: <ENCRYPTED_TOKEN>
+    secure: example-token-12345
   on:
     tags: true
     repo: andrewstillv15/Test1-Service-Repo
